@@ -106,7 +106,7 @@ The organisations/partners that help us in technology and business stuff are als
 
 ## Project information
 - Official website: [suipad.app](https://suipad.app)
-- Twitter channel: [suipad_dao](https://twitter.com/)
+- Twitter channel: [suipad_dao](https://twitter.com/SuiPad_)
 - Github source code: [smart contracts](https://github.com/suipad-app/smart-contracts) 
 - Contact us: [support@suipad.app](email:support@suipad.app)
  
