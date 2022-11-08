@@ -29,6 +29,9 @@ SuiPad has a fair mechanism for any users on the platform to access the project 
 ### Earning mechanism 
 SuiPad has the earning mechanism so that everyone can start earning by staking the platform token, adding liquidity or farming (the next phase). Users can also receive the bonus/airdrop token in some marketing campaign, please follow us and stay-tuned for more information.
 
+### On-chain referential mechanism 
+SuiPad is the first launchpad platform on the Sui network that applies the on-chain referential mechanism. The on-chain ref mechanism allows users to refer for a friend to join the SuiPad and get the commission automatically and transparently managed by smart contracts.
+
 ### Platform government 
 SuiPad is the community-driven platform for fundraising. Communities can raise their voice by creating the proposal or voting for the proposal. It’s the community to decide what the platform should be like.
 
