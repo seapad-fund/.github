@@ -1,7 +1,7 @@
 # Welcome to SuiPad
 ![Sui Pad Platform](https://github.com/suipad-app/.github/raw/main/assets/suipad-01.png)
 
-SuiPad is the first decentralised launchpad on the Sui network that helps the creative ideals to become the real applications in life. 
+SuiPad is the first decentralised fair-launchpad on the Sui network that helps the creative ideals to become the real applications in life. 
 
 SuiPad is currently focusing on fundraising for web3 projects such as NFT, Gaming, Digital asset management, Defi, SocialFi … but not limited to any projects that help the transition from web2 to web3.
 
@@ -109,7 +109,7 @@ The organisations/partners that help us in technology and business stuff are als
 
 ## Project information
 - Official website: [suipad.app](https://suipad.app)
-- Twitter channel: [suipad_dao](https://twitter.com/SuiPad_)
+- Twitter channel: [suipad_defi](https://twitter.com/SuiPad_defi)
 - Github source code: [smart contracts](https://github.com/suipad-app/smart-contracts) 
 - Contact us: [support@suipad.app](email:support@suipad.app)
  
