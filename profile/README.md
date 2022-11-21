@@ -45,7 +45,7 @@ _This is draft tokenomics, the official information will be provided when lauchi
 
 - Token Name: SuiPad token
 - Token symbol: SPT
-- Total supply: 1.000.000.000 
+- Total supply: 1.000.000 (one million)
 - Network: SUI 
 - Token standard: SUI assets/token compatible 
 - Token distribution and vesting schedule as the table below:
@@ -53,12 +53,15 @@ _This is draft tokenomics, the official information will be provided when lauchi
 
 | Token distribution           | Percentage  | Amount     | Vesting schedule                              |
 | -----------------------      | ----------- |------------|-----------------------------------------------|
-| Private round                | 8 %         |80.000.000  |Release 20% at TGE, linear vesting in 6 months |
-| Public round (IDO)           | 4%          |40.000.000  |Release 100% at TGE                            |
-| Advisor                      | 5%          |50.000.000  |Release 10% at TGE, linear vesting in the next 36 months|
-| Founder/Core team            | 15%         |150.000.000 |Fully lock in 12 months then unlock over 36 months|
-| OG, community, airdrop       | 50%         |500.000.000 |Release on each campain, target in 5 years|
-| Treasury                     | 18%         |180.000.000 |Fully lock in the first 3 years, unlock over next 36 months|
+| Private round                | 8 %         |8.000.000   |Release 30% at TGE, linear vesting in 12 months |
+| Public round (IDO)           | 5%          |5.000.000   |Release 50% at TGE, vesting over 3 months       |
+| Founder/Core team            | 15%         |15.000.000  |Fully lock in 12 months then unlock over 36 months|
+| Advisor                      | 5%          |5.000.000   |Release 10% at TGE, linear vesting in the next 36 months|
+| Community, OGs, supporters   | 25%         |25.000.000  |Depend on the campaign and community, target in 60 months|
+| Liquidity                    | 20%         |20.000.000  |Release 15% at TGE, linear vesting in the next 18 months|
+| DAO Treasury                 | 22%         |22.000.000  |Fully lock in the first 3 years, unlock over next 36 months|
+
+
 ### Token utility 
 With SPT, users can:
 - Stake to get the tickets to buy the token sales
@@ -109,6 +112,7 @@ The organisations/partners that help us in technology and business stuff are als
 
 ## Project information
 - Official website: [suipad.app](https://suipad.app)
+- Discord channel: [SuiPad](https://discord.gg/wEqZXxU4RM)
 - Twitter channel: [suipad_defi](https://twitter.com/SuiPad_defi)
 - Github source code: [smart contracts](https://github.com/suipad-app/smart-contracts) 
 - Contact us: [support@suipad.app](email:support@suipad.app)
