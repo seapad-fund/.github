@@ -45,7 +45,7 @@ _This is draft tokenomics, the official information will be provided when lauchi
 
 - Token Name: SuiPad token
 - Token symbol: SPT
-- Total supply: 1.000.000 (one million)
+- Total supply: 100.000.000 (one hundred million)
 - Network: SUI 
 - Token standard: SUI assets/token compatible 
 - Token distribution and vesting schedule as the table below:
