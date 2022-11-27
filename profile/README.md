@@ -41,7 +41,7 @@ Many functions will be integrated to the platform based on the community's opini
 ## SuiPad token - SPT
 SuiPad token (SPT) is the utility token of the SuiPad platform issued on the Sui network. This token is designed to empower the whole SuiPad ecosystem 
 ### Tokenomics
-_This is draft tokenomics, the official information will be provided when lauching the projects_
+_This is draft tokenomics, the official information will be provided when lauching the projects. The vesting schedule will be determined later_
 
 - Token Name: SuiPad token
 - Token symbol: SPT
@@ -51,15 +51,15 @@ _This is draft tokenomics, the official information will be provided when lauchi
 - Token distribution and vesting schedule as the table below:
 
 
-| Token distribution           | Percentage  | Amount     | Vesting schedule                              |
-| -----------------------      | ----------- |------------|-----------------------------------------------|
-| Private round                | 8 %         |8.000.000   |Release 30% at TGE, linear vesting in 12 months |
-| Public round (IDO)           | 5%          |5.000.000   |Release 50% at TGE, vesting over 3 months       |
-| Founder/Core team            | 15%         |15.000.000  |Fully lock in 12 months then unlock over 36 months|
-| Advisor                      | 5%          |5.000.000   |Release 10% at TGE, linear vesting in the next 36 months|
-| Community, OGs, supporters   | 25%         |25.000.000  |Depend on the campaign and community, target in 60 months|
-| Liquidity                    | 20%         |20.000.000  |Release 15% at TGE, linear vesting in the next 18 months|
-| DAO Treasury                 | 22%         |22.000.000  |Fully lock in the first 3 years, unlock over next 36 months|
+| Token distribution           | Percentage  | Amount     | Vesting schedule    |
+| -----------------------      | ----------- |------------|---------------------|
+| Private round                | 8 %         |8.000.000   |       TBD           |
+| Public round (IDO)           | 5%          |5.000.000   |       TBD           |
+| Founder/Core team            | 15%         |15.000.000  |       TBD           |
+| Advisor                      | 5%          |5.000.000   |       TBD           |
+| Community, OGs, supporters   | 25%         |25.000.000  |       TBD           |
+| Liquidity                    | 20%         |20.000.000  |       TBD           |
+| DAO Treasury                 | 22%         |22.000.000  |       TBD           |
 
 
 ### Token utility 
